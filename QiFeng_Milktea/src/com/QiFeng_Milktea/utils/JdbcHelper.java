@@ -27,7 +27,7 @@ public class JdbcHelper {
             + "user=sa;password=dongduy122;"
             + "encrypt=true;trustServerCertificate=true;";
     public static Connection conn;
-
+public static  String d ="com.microsoft.sqlserver.jdbc.SQLServerDriver;jdbc:sqlserver://localhost:1433;databaseName=user;user=sa;password=dongduy122;encrypt=true;trustServerCertificate=true;";
     //nạp driver
     static {
         try {
