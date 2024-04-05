@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-05T20:40:04 ICT" name="Default suite" finished-at="2024-04-05T20:40:08 ICT" duration-ms="4344">
+    <groups>
+    </groups>
+    <test started-at="2024-04-05T20:40:04 ICT" name="Default test" finished-at="2024-04-05T20:40:08 ICT" duration-ms="4344">
+      <class name="com.poly.test.CheckPasswordTest">
+        <test-method is-config="true" signature="openQuenMK()[pri:0, instance:com.poly.test.CheckPasswordTest@49049a04]" started-at="2024-04-05T20:40:04 ICT" name="openQuenMK" finished-at="2024-04-05T20:40:05 ICT" duration-ms="1014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openQuenMK -->
+        <test-method signature="TC_QLTS_QUENMATKHAU_1()[pri:1, instance:com.poly.test.CheckPasswordTest@49049a04]" started-at="2024-04-05T20:40:05 ICT" name="TC_QLTS_QUENMATKHAU_1" finished-at="2024-04-05T20:40:08 ICT" duration-ms="3300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_QLTS_QUENMATKHAU_1 -->
+      </class> <!-- com.poly.test.CheckPasswordTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
