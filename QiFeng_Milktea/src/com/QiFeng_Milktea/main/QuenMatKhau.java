@@ -4,6 +4,7 @@ import com.QiFeng_Milktea.Validate.labelValidate;
 import com.QiFeng_Milktea.dao.NhanVienDAO;
 import com.QiFeng_Milktea.entity.NhanVien;
 import com.QiFeng_Milktea.utils.MsgBox;
+import com.raven.suportSwing.MyButton;
 
 import java.awt.event.ActionListener;
 import java.util.Properties;
@@ -521,4 +522,9 @@ public class QuenMatKhau extends javax.swing.JPanel {
 	public com.raven.suportSwing.PasswordField txtVerifyPassword;
 	// End of variables declaration//GEN-END:variables
 	public Object lblMessage;
+
+	public static  MyButton getBtnReset() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }

@@ -5,8 +5,16 @@
     <classes>
       <class name="com.poly.test.CheckPasswordTest">
         <methods>
+          <include name="TC_QLTS_QUENMATKHAU_9"/>
           <include name="openQuenMK"/>
-          <include name="TC_QLTS_QUENMATKHAU_1"/>
+          <include name="TC_QLTS_QUENMATKHAU_15"/>
+          <include name="TC_QLTS_QUENMATKHAU_16"/>
+          <include name="closeQuenMK"/>
+          <include name="TC_QLTS_QUENMATKHAU_13"/>
+          <include name="TC_QLTS_QUENMATKHAU_14"/>
+          <include name="TC_QLTS_QUENMATKHAU_11"/>
+          <include name="TC_QLTS_QUENMATKHAU_7_8"/>
+          <include name="TC_QLTS_QUENMATKHAU_12"/>
         </methods>
       </class> <!-- com.poly.test.CheckPasswordTest -->
     </classes>
